@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=iManager
+comment0.text=\r\n\ iManager\ acts\ as\ the\ interface\ for\ the\ Manager\ which\ enables\ it\ to\ populate\ the\ world\r\n\r\n\ @author\ Zaib\r\n\ @version\ v1\r\n
+comment1.params=world
+comment1.target=void\ Update(env3d.Env)
+comment1.text=\r\n\ Method\ Update\ -\ Update\ method\ to\ be\ called\ in\ the\ simuation\ \r\n\r\n\ @param\ world\ A\ parameter\ of\ the\ env3D\r\n
+comment2.params=world
+comment2.target=void\ Populate(env3d.Env)
+comment2.text=\r\n\ Method\ Populate\ -\ adds\ all\ the\ display\ and\ behaviours\ and\ displays\ it\ on\ to\ screen\r\n\r\n\ @param\ world\ A\ parameter\ of\ the\ env3D\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=iMousePublisher
+comment0.text=\r\n\ interface\ iMousePublisher\ using\ a\ observer\ pattern\ publishes\ mouse\ events\ to\ all\ the\ listeners\r\n\r\n\ @author\ Zaib\ Inamdar\r\n\ @version\ v1\r\n
+comment1.params=listen
+comment1.target=void\ Register(iMouseListener)
+comment1.text=\r\n\ Method\ Register\ a\ new\ listener\ for\ mouse\ revents\r\n\r\n\ @param\ listen\ A\ refereence\ to\ the\ listener\ for\ all\ mouse\ events\r\n
+comment2.params=listen
+comment2.target=void\ Unregister(iMouseListener)
+comment2.text=\r\n\ Method\ Unregister\ listener\ for\ mouse\ events\r\n\r\n\ @param\ listen\ A\ refereence\ to\ the\ listener\ for\ all\ mouse\ events\r\n
+comment3.params=world
+comment3.target=void\ Update(env3d.Env)
+comment3.text=\r\n\ Method\ Update\ mouse\ state\ called\ on\ each\ update\ loop\r\n\r\n\ @param\ world\ A\ reference\ to\ env3D\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\r\n\ Simulation\ is\ the\ top-level\ class\ for\ the\ Aquarium\ simulation.\r\n\ \r\n\ @author\ Zaib\ Inamdar\ &\ Marc\ Price\r\n\ @version\ 0.5\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Author\ Marc\ Price\ \r\n\ \r\n\ Static\ Main\ method\ used\ for\ creating\ standalone\ apps\r\n\r\n\ @param\ \ \ \ \ \ \ args\ the\ command-line\ arguments\r\n
+comment2.params=
+comment2.target=Simulation()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Simulation\r\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ METHOD\:\ Run\ the\ simulation\ loop.\ \ User\ presses\ escape\ to\ exit.\r\n\r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=iDisplayFactory
+comment0.text=\r\n\ Interface\ for\ the\ iDisplayFactory\ used\ for\ the\ factory\ method\r\n\r\n\ @author\ Zaib\ Inamdar\r\n\ @version\ V1\r\n
+comment1.params=model\ texture\ scale
+comment1.target=iDisplay\ createDisplay(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Method\ createDisplay\ -\ used\ to\ create\ a\ display\r\n\r\n\ @param\ model\ A\ parameter\ passed\ to\ the\ model\ string\r\n\ @param\ texture\ A\ parameter\ passed\ to\ the\ texture\ string\r\n\ @param\ scale\ A\ parameter\ passed\ to\ the\ scale\ \r\n\ @return\ the\ iDisplay\r\n
+numComments=2

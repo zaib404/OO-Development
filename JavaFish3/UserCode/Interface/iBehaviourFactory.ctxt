@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=iBehaviourFactory
+comment0.text=\r\n\ iBehaviourFactory\ used\ to\ create\ the\ behaviour\ and\ pass\ in\ the\ required\ class\ to\ make\ the\ behaviour\ and\ assign\ to\ display\r\n\r\n\ @author\ Zaib\ Inamdar\r\n\ @version\ V2\r\n
+comment1.params=
+comment1.target=void\ Update()
+comment1.text=\r\n\ Method\ Update\ -\ used\ for\ the\ update\r\n\r\n
+comment2.params=bClass\ display\ pos
+comment2.target=iBehaviour\ createBehaviour(java.lang.Class,\ iDisplay,\ double[])
+comment2.text=\r\n\ Method\ createBehaviour\ used\ to\ create\ the\ behaviour\r\n\r\n\ @param\ bClass\ A\ parameter\ which\ creates\ a\ new\ instance\ of\ the\ class\ passed\ from\ the\ parameter\r\n\ @param\ display\ A\ parameter\ asign\ display\ to\ behaviour\r\n\ @param\ pos\ A\ parameter\ pass\ a\ position\ to\ set\ the\ position\ of\ the\ behaviour\r\n\ @return\ The\ return\ behaviour\ created\r\n
+numComments=3

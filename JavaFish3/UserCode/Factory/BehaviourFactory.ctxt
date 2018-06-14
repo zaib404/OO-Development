@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BehaviourFactory
+comment0.text=\r\n\ BehaviourFactory\ called\ to\ create\ new\ behaviours\ of\ classes\r\n\r\n\ @author\ Zaib\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=BehaviourFactory()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BehaviourFactory\r\n
+comment2.params=behaviourClass\ display\ pos
+comment2.target=UserCode.Interface.iBehaviour\ createBehaviour(java.lang.Class,\ UserCode.Interface.iDisplay,\ double[])
+comment2.text=\r\n\ Method\ createBehaviour\ generic\ method\ which\ creates\ new\ behaviour\ passing\ in\ the\ parameters\r\n\r\n\ @param\ behaviourClass\ A\ parameter\ used\ to\ get\ the\ requireed\ class\ needed\r\n\ @param\ display\ A\ parameter\ assign\ the\ behaviour\ to\ have\ a\ display\r\n\ @param\ pos\ A\ parameter\ -\ \ pass\ in\ the\ position\ \r\n\ @return\ The\ return\ the\ behaviour\ \r\n
+comment3.params=
+comment3.target=void\ Update()
+comment3.text=\r\n\ Method\ Update\ -\ used\ to\ call\ the\ update\ of\ the\ behaviours\r\n\r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=iMoveX
+comment0.text=\r\n\ iMoveX\ defines\ the\ interface\ for\ behaviour\ objects\ which\ will\ enable\ the\ objects\ to\ move\ on\ the\ X\ axis\r\n\r\n\ @author\ Zaib\r\n\ @version\ 26/2/18\r\n
+comment1.params=
+comment1.target=void\ swimX()
+comment1.text=\r\n\ Method\ swimX\ -\ Allows\ for\ the\ implementation\ of\ swiming\ along\ the\ X\ axis\r\n\r\n
+numComments=2

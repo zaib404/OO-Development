@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MouseHandler
+comment0.text=\r\n\ Handles\ Mouse\ Events\r\n\ \r\n\ @author\ Zaib\ Inamdarr\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=MouseHandler()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MouseHandler\r\n\r\n
+comment2.params=listen
+comment2.target=void\ Register(UserCode.Interface.iMouseListener)
+comment3.params=listen
+comment3.target=void\ Unregister(UserCode.Interface.iMouseListener)
+comment4.params=world
+comment4.target=void\ Update(env3d.Env)
+numComments=5

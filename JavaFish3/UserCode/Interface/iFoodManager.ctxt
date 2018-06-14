@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=iFoodManager
+comment0.text=\r\n\ iFoodManager\ -\ food\ manager\ to\ manage\ the\ food.\r\n\r\n\ @author\ Zaib\r\n\ @version\ v1\r\n
+comment1.params=world
+comment1.target=void\ Update(env3d.Env)
+comment1.text=\r\n\ Method\ Update\ update\ to\ update\ the\ food\ so\ it\ is\ able\ to\ fall\ down\r\n\r\n\ @param\ world\ A\ parameter\ of\ the\ env3D\r\n
+numComments=2

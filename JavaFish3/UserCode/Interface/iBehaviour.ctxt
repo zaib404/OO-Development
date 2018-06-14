@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=iBehaviour
+comment0.text=\r\n\ iBehaviour\ defines\ the\ interface\ for\ all\ behaviour\ objects\ to\ have\ behaviours\ within\ the\ simulation.\r\n\r\n\ @author\ Zaib\ Inamdar\r\n\ @version\ 26/2/18\r\n
+comment1.params=
+comment1.target=void\ Update()
+comment1.text=\r\n\ Method\ Update\ -\ Objects\ which\ implement\ iBehaviour.\ \r\n\ Will\ have\ a\ update\ method\ enabling\ it\ to\ move\ in\ the\ aquarium.\r\n
+comment2.params=pos
+comment2.target=void\ setPosition(double[])
+comment2.text=\r\n\ Method\ setPosition\ all\ displayable\ objects\ need\ to\ have\ the\ object\ of\ setting\ its\ position\r\n\r\n\ @param\ pos\ pass\ a\ double\ array\r\n
+numComments=3

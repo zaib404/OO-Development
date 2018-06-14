@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DisplayTest
+comment0.text=\r\n\ The\ test\ class\ DisplayTest.\r\n\r\n\ @author\ Zaib\ Inamdar\r\n\ @version\ v2\r\n\ \r\n\ Test\ conditions\:\r\n\ \r\n\ 1)\ Construction\:\ raises\ exception\ if\ models\ string\ is\ not\ pointing\ to\ a\ valid\ path.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ when\ texture\ if\ not\ pointing\ to\ a\ valid\ image\ file\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ along\ with\ if\ its\ size\ parameter\ is\ out\ of\ range.\r\n
+comment1.params=
+comment1.target=DisplayTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ DisplayTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ test01()
+comment4.text=\r\n\ 1)\ Construction\:\ raises\ exception\ if\ models\ string\ is\ not\ pointing\ to\ a\ valid\ path.\r\n\ and\ when\ texture\ if\ not\ pointing\ to\ a\ valid\ image\ file\r\n\ along\ with\ if\ its\ size\ parameter\ is\ out\ of\ range.\r\n
+numComments=5
